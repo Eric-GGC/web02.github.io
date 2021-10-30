@@ -1,0 +1,37 @@
+.banner{
+    background-image: url(../assets/1.jpg);
+    background-size: cover;
+    height: 40vh;
+}
+
+.display-4{
+    padding-top: 150px;
+}
+
+.bg-image1{
+    background-image: url(../assets/2.jpg);
+    background-size: cover;
+    height: 80vh;
+    background-position: 0px -30px;
+}
+
+.bg-image2{
+    background-image: url(../assets/5.jpeg);
+    background-size: cover;
+    height: 80vh;
+    background-position: 0px -30px;
+}
+
+.bg-image3{
+    background-image: url(../assets/7.jfif);
+    background-size: cover;
+    height: 80vh;
+    background-position: 0px -170px;
+}
+
+.bg-image4{
+    background-image: url(../assets/8.jpg);
+    background-size: cover;
+    height: 80vh;
+    background-position: 0px 0px;
+}
